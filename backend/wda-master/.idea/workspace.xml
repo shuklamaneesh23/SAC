@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdd3ecb0-bf74-4e97-8c3f-b55d388d2ff4" name="Changes" comment="" />
+    <list default="true" id="fdd3ecb0-bf74-4e97-8c3f-b55d388d2ff4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/wda-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/Model/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/Model/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/Model/Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/Model/Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/RegisterAppApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/RegisterAppApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/config/ChatServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/config/ChatServerApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/config/EmailConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/config/EmailConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/controller/ChatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/controller/ChatController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/controller/DonateController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/controller/DonateController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/dto/DonateDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/dto/DonateDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/dto/LoginDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/dto/LoginDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/dto/RegisterDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/dto/RegisterDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/entity/Donate$DonateBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/entity/Donate$DonateBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/entity/Donate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/entity/Donate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/repository/DonateRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/repository/DonateRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/service/DonateService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/service/DonateService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/service/DonateServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/service/DonateServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/util/EmailUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/util/EmailUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/registerapp/util/OtpUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/registerapp/util/OtpUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/node_modules/.vite/deps/_metadata.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,9 +67,10 @@
     "Application.RegisterAppApplication.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/maneeshshukla/Desktop/wda/ShareAndCareWDA/backend/wda-master"
+    "last_opened_file_path": "/Users/maneeshshukla/Desktop/GSSOC/backend/wda-master"
   }
 }]]></component>
   <component name="RunManager">
